@@ -1,0 +1,13 @@
+
+* How to open the client *
+Open the client folder, inside you'll see "MirageXNA.sln" open that in Visual Studio. Once open the can run the client by pressing F5.
+
+
+* Folders *
+
+Build 		- This contains the compiled client when you build your project under the release settings.
+		- The debug settings will use the default bin folder hidden in the source code folder.
+		- Always use the release settings when building you project.
+
+Source Code 	- This contains the 2 projects that make your visual studio solution. The Xna App and the Xna content pipeline.
+		- You should always open the client using the .sln file in the client folder.
